@@ -9,7 +9,6 @@ public class StrategyApp {
     }
 
     public static void main(final String[] args) {
-        // TODO: Fix this ...
-        // showText();
+        // TODO: call showText ...
     }
 }
